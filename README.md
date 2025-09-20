@@ -72,3 +72,9 @@ Returns a secret message if a valid token is provided in the `Authorization` hea
 **Pete (VipTechDev)**  
 Modular ritualist, bug-slaying collaborator, and lorebook builder.  
 Connect on [LinkedIn](https://www.linkedin.com/in/peter-menet-a40752371/)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
